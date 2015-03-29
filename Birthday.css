@@ -15,7 +15,7 @@ body {
 }
 
 h1 {
-  margin: 0.5em 0 0 0; 
+  
   margin-bottom: 20px;
 }
 
@@ -64,10 +64,7 @@ h3 {
 
     
 }
-#cake1{
-background-image: url(cake.png);
-background-repeat: repeat-x;
-}
+
 
 
 .cake {
@@ -299,4 +296,9 @@ background-repeat: repeat-x;
 {
 height: 600px;
 width: 400px;
+}
+.cake1{
+background: url("http://martjd31.github.io/cake.png")  space  ;
+
+
 }
